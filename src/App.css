@@ -1,0 +1,21 @@
+.search-form{
+   margin-top:2%
+}
+.App {
+  text-align: center;
+  background-color: #ccccff;
+}
+.rapper{
+  display: flex;
+  flex-direction: row ;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+
+
+
+
+
+
